@@ -1,0 +1,8 @@
+a) f permite tambien clases
+b) f necesita importarse para utilizar useState
+c) f se pueden seter de manera directa
+d) v si permite realizar enlaces uno dentro de otro
+e) f los props envian variables de una pagina a otra 
+f) v si debido a que permite vincular lo funcional con lo estructural
+g) v no es necesario, pero es recomendado para evitar errores y warnings
+h) v es un contenedor de estados

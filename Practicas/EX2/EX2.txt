@@ -1,0 +1,10 @@
+a F Un componente en angular puede constar de css para los estilos tambien
+b F Puede utilizar TS como JS pero se recomienda TS https://desarrolloweb.com/home/angular#:~:text=El%20desarrollo%20en%20Angular%20se,tipado%20est%C3%A1tico%20o%20los%20decoradores.
+c v Se utiliza para mostrar porciones HTML si es que se cumple una condicional
+d
+e v Se utiliza para recorrer listas de elementos y es una forma sencilla de mostrar una tabla
+f v Un pipe puede utilizarse en una propiedad interpolada para que se renderice de una mejor manera 
+g
+h v Angular se basa en SPA es por ello que se genera una pagina base la cual cuenta con componentes para realizar las diferentes funciones 
+i v El resultado del renderizado seria un texto en minuscula
+j f No muestra los segundos

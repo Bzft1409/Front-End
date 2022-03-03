@@ -1,0 +1,24 @@
+{
+  "libros": [
+    {
+      "nombre": "Las mil y una noches",
+      "cantidad": "8",
+      "id": 1
+    },
+    {
+      "nombre": "Grecia",
+      "cantidad": "5",
+      "id": 2
+    },
+    {
+      "nombre": "Los viajes de colon",
+      "cantidad": "6",
+      "id": 3
+    },
+    {
+      "nombre": "Lord",
+      "cantidad": "4",
+      "id": 4
+    }
+  ]
+}

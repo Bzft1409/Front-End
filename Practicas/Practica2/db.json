@@ -1,0 +1,136 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Televisor",
+      "modelo": "Smart LG",
+      "descripcion": "Televisor con alta definicion",
+      "precio": 1200,
+      "categoriaId": 1,
+      "califiacion": 8,
+      "estado": 0
+    },
+    {
+      "id": 2,
+      "nombre": "Camara Video",
+      "modelo": "Samsung",
+      "descripcion": "Camara con alta definicion",
+      "precio": 700,
+      "categoriaId": 3,
+      "califiacion": 5,
+      "estado": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Celular",
+      "modelo": "Iphone 13",
+      "descripcion": "Celular con muchas camaras",
+      "precio": 3500,
+      "categoriaId": 4,
+      "califiacion": 9,
+      "estado": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Lavadora",
+      "modelo": "Smart lavadora 13",
+      "descripcion": "Lavadora especializada",
+      "precio": 1500,
+      "categoriaId": 1,
+      "califiacion": 6,
+      "estado": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Audifonos",
+      "modelo": "Audioestechnica M50X",
+      "descripcion": "Audifono Overhear",
+      "precio": 540,
+      "categoriaId": 3,
+      "califiacion": 10,
+      "estado": 0
+    },
+    {
+      "id": 6,
+      "nombre": "Laptop",
+      "modelo": "Asus Vivobook 350",
+      "descripcion": "Laptop con GTX3050",
+      "precio": 4999,
+      "categoriaId": 2,
+      "califiacion": 9,
+      "estado": 0
+    },
+    {
+      "id": 7,
+      "nombre": "Teclado",
+      "modelo": "Logitech 360",
+      "descripcion": "Teclado inalambrico",
+      "precio": 200,
+      "categoriaId": 2,
+      "califiacion": 3,
+      "estado": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Mouse",
+      "modelo": "Logitech M6",
+      "descripcion": "Mouse inalambrico",
+      "precio": 50,
+      "categoriaId": 2,
+      "califiacion": 4,
+      "estado": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Radio",
+      "modelo": "Tuner 7",
+      "descripcion": "Musica de fondo",
+      "precio": 500,
+      "categoriaId": 3,
+      "califiacion": 8,
+      "estado": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Tablet",
+      "modelo": "Ipad mini",
+      "descripcion": "Tableta con alto rendimiento",
+      "precio": 1200,
+      "categoriaId": 4,
+      "califiacion": 6,
+      "estado": 0
+    },
+    {
+      "modelo": "PS5",
+      "nombre": "consola",
+      "precio": 3000,
+      "id": 11
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Electrodomestico",
+      "descripcion": "Aparatos que de casa",
+      "estado": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Computo",
+      "descripcion": "Aparatos de computador",
+      "estado": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Entretenimiento",
+      "descripcion": "Aparatos de diversion",
+      "estado": 0
+    },
+    {
+      "id": 4,
+      "nombre": "Moviles",
+      "descripcion": "Aparatos de comunicacion",
+      "estado": 0
+    }
+  ]
+}
